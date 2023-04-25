@@ -1,12 +1,14 @@
 MAIN SECTIONS
-Welcome
-- Put picture in top
 - social media buttons in top
-- Fullscreen section
 About Me
 - Interest bullet point next section
 Featured Work
 - Nothing here for now
+
+TOPBAR
+- Follow along with video
+
+This website is being developed to capture all of my interests and projects and make my work more accessible to anyone who wants to see.
 
 
 https://themes.artbees.net/blog/key-sections-in-creative-website-template/
