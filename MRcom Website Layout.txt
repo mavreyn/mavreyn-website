@@ -1,0 +1,47 @@
+Big circle picture
+============================
+
+Links
+- Insta
+- Git
+- LinkedIn
+- Chess
+- Google guide profile
+- YouTube
+
+Desc/about
+
+Articles
+- How I made this website
+Projects
+- Mango w/ example notes
+- UCFC (include interview)(4/21)
+- Other Code
+- Some Keras stuff I will have made!
+- Desmos maybe
+Interests
+- Best Chess Games
+- Photography (showcase / full gallery for each) 
+	astro (stargazing article)
+	UCF
+- Favorite Integrals
+- Math portfolio?
+Contact
+- Spot for email/message
+
+Educational portfolio,
+(big undertaking)
+(8th grade also)(end of Z-FAV)
+
+Other articles I find cool (google medium photos design!)
+Memes I made (Duffy)
+
+Nothing here yet graphic implement
+Color change dark/light/sequoia/blue
+Progress scroll bar
+Cool CSS headers (mask scroll!)
+sideways split sections
+Reading progress bar
+Subsection panel
+Responsiveness general cool things
+Find good font (roboto)

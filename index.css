@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.init-bg {
+    color: white;
+    padding: 50px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    margin: 0px;
+    background-color: aqua;
+    background-size: cover;
+    background-image: url("pexels-codioful-(formerly-gradienta)-7134986.jpg");
+}
+@media (min-width:1000px) {
+    .init-bg {
+        padding-left: 300px;
+        padding-right: 300px;
+    }
+}
+
+.next {
+    height: 500px
+}
+
+.home-header {
+    font-size: 80px;
+    margin: 0px;
+}
+
+.home-first-content {
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.no-content {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
