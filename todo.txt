@@ -1,14 +1,26 @@
 MAIN SECTIONS
+- Computational Mathematics Student at the University of Central Florida
 - social media buttons in top
+
 About Me
+- Lover of Mathematics... IG desc
+
+about me (carousel here)
+This website is being developed to capture all of my interests and projects and make my work more accessible to anyone who wants to see.
+
 - Interest bullet point next section
-Featured Work
-- Nothing here for now
+Contact
+- Empty for now
 
 TOPBAR
 - Follow along with video
+- Maverick
+- 
 
-This website is being developed to capture all of my interests and projects and make my work more accessible to anyone who wants to see.
+no content dark
+
+gradient to function (like form video)
+
 
 
 https://themes.artbees.net/blog/key-sections-in-creative-website-template/
@@ -16,3 +28,5 @@ https://www.youtube.com/watch?v=wLPIwZdo0gM&ab_channel=KevinPowell
 
 https://www.youtube.com/watch?v=RroDdybvu5s&ab_channel=Codehal
 https://www.youtube.com/watch?v=woTqSlryQjw&ab_channel=KevinPowell
+https://www.youtube.com/watch?v=705XCEruZFs&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6HtL1&index=3&ab_channel=Fireship
+https://www.youtube.com/watch?v=biOMz4puGt8&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6HtL1&index=3&ab_channel=Fireship
