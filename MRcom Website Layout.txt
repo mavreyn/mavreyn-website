@@ -1,10 +1,11 @@
-Links
-- Insta
-- Git
-- LinkedIn
 - Chess
 - Google guide profile
 - YouTube
+- Spotify
+
+- Discord
+- Snapchat
+- Steam
 
 Desc/about
 
@@ -32,13 +33,3 @@ Educational portfolio,
 
 Other articles I find cool (google medium photos design!)
 Memes I made (Duffy)
-
-Nothing here yet graphic implement
-Color change dark/light/sequoia/blue
-Progress scroll bar
-Cool CSS headers (mask scroll!)
-sideways split sections
-Reading progress bar
-Subsection panel
-Responsiveness general cool things
-Find good font (roboto)
