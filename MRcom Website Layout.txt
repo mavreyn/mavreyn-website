@@ -1,13 +1,8 @@
-- Chess
-- Google guide profile
-- YouTube
-- Spotify
-
-- Discord
-- Snapchat
-- Steam
-
-Desc/about
+Home
+* Socials
+* Picture
+* Desc/about
+- Cool 3JS thing here
 
 Articles
 - How I made this website
@@ -16,7 +11,10 @@ Projects
 - UCFC (include interview)(4/21)
 - Other Code
 - Some Keras stuff I will have made!
-- Desmos maybe
+- Desmos ALL!
+- PA calculations
+- Gene data shift adj convolution
+- RIF function exploration (erf as well)
 Interests
 - Best Chess Games
 - Photography (showcase / full gallery for each) 

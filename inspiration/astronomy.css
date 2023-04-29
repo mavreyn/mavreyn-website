@@ -1,0 +1,48 @@
+/* This font I love */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* For all elements to help make things easier down the road*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    color: #eee
+}
+
+/* ====================== PARALLAX STARRY NIGHT HEADER ====================== */
+
+.starry-night {
+    background-image: url("starryNightBG.jpg");
+    background-size: cover;
+    height: 78vh;
+    position: relative;
+    z-index: -2;
+}
+.foreground {
+    background-image: url("starryNightFG.png");
+    background-size: cover;
+    z-index: 0;
+    height: 78vh
+}
+.astronomy {
+    padding-top: 40px;
+    position: fixed;
+    inset: 0;
+    text-align: center;
+    font-size: 160px;
+    z-index: -1;
+}
+
+
+main {
+    padding: 40px 25%;
+    background-color: black;
+}
+
+p {
+    font-size: 24px;
+}

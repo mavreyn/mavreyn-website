@@ -5,10 +5,13 @@ Finish codehal landing (transitions)
 gradient to CSS function (like form video)
 
 About Me
-(carousel here)
+Change profile picture
 
 My portfolio consists of my greatest work (including the web design itself) and is in early development. Feel free to explore and get in touch!
-- More info (dropdown)
+- More info (dropdown)(in about menu)
+
+Fill in main astro content
+
 
 =======================================================================
 Midterm / aesthetic::
@@ -16,22 +19,33 @@ Midterm / aesthetic::
 Sort files
 Nothing here yet dark version
 Fireship animated navbar target scrollbar
-Discord iframe (invite/servers)
+Discord iframe (invite/servers)(for UCFC page)
+
+Socials (dropdown)
+- Chess
+- Google guide profile
+- YouTube
+- Spotify
+
+- Discord
+- Snapchat
+- Steam
+
+Featured section?
 
 =======================================================================
 Long term / wishlist::
 Color changer
 Responsive
-Parallax header effect (astronomy page)
 Reading progress bar (headings panel left)
 THREEJS landing / below
+mavreyn.dev
 
 
 
 https://themes.artbees.net/blog/key-sections-in-creative-website-template/
 https://www.youtube.com/watch?v=wLPIwZdo0gM&ab_channel=KevinPowell
 
-https://www.youtube.com/watch?v=woTqSlryQjw&ab_channel=KevinPowell
 https://www.youtube.com/watch?v=705XCEruZFs&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6HtL1&index=3&ab_channel=Fireship
 https://www.youtube.com/watch?v=biOMz4puGt8&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6HtL1&index=3&ab_channel=Fireship
 
@@ -40,3 +54,12 @@ https://premio.io/blog/13-cool-elements-you-can-embed-in-your-my-sticky-elements
 
 Cool image effects
 https://www.youtube.com/watch?v=k3F1PyBX8pI&ab_channel=Codehal
+
+Threejs efects super cool
+https://freefrontend.com/three-js-examples/
+
+Hacked Letters thing
+https://www.youtube.com/watch?v=W5oawMJaXbU&ab_channel=Hyperplexed
+
+Cool text gradient
+https://www.youtube.com/watch?v=yu0Cm4BqQv0&list=PLD9xos4mnoHSIDnJjGmhRrxRmHGS8nF91&index=9&ab_channel=Hyperplexed
