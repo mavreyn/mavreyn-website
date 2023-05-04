@@ -9,6 +9,17 @@
     font-family: 'Poppins', sans-serif;
 }
 
+:root {
+    --test: red;
+    --main-bg: #111;
+    --text: #eee;
+    --highlight: mediumpurple;
+}
+
+body {
+    background-color: var(--main-bg);
+}
+
 /* ====================== HEADER ====================== */
 
 .header {
@@ -28,12 +39,12 @@
     font-size: 30px;
     text-decoration: none;
     font-weight: 600;
-    color: #eee;
+    color: var(--text);
 }
 
 .navbar a {
     font-size: 24px;
-    color: #eee;
+    color: var(--text);
     text-decoration: none;
     font-weight: 500;
     margin-left: 40px;
@@ -48,7 +59,7 @@
 .landing {
     display: flex;
     align-items: center;
-    color: #eee;
+    color: var(--text);
     height: 100svh;
     background-image: url("gradientDark.png");
     padding: 0 10%;
@@ -69,7 +80,7 @@
 }
 .landing-content h2 {
     font-size: 48px;
-    color:mediumpurple;
+    color:var(--highlight);
     margin-bottom: 10px;
 }
 .landing-content h3 {
@@ -114,7 +125,7 @@
     transition: .5s;
 }
 .socials a:hover {
-    color: mediumpurple
+    color: var(--highlight)
 }
 .socials a:hover::before {
     width: 100%;
@@ -143,7 +154,7 @@
     color: #eee
 }
 .about-words {
-    color: mediumpurple;
+    color: var(--highlight);
 }
 .about-content {
     display: flex;
@@ -152,6 +163,74 @@
     margin-top: 50px;
     max-width: 400px;
     margin-left: 2%;
+}
+
+/* ==================== PROJECTS / INTERETS ==================== */
+
+.projects-interests {
+    position: relative;
+    height: 100svh;
+    isolation: isolate;
+}
+
+/* To make diagonal effect */
+.projects-interests::after {
+    content: "";
+    background-image: linear-gradient(
+        45deg,
+        #12c2e9,
+        #c471ed,
+        #f64f59
+    );
+    position: absolute;
+    z-index:-1;
+    inset: 0;
+    transform: skewY(-5deg);
+}
+
+.projects-interests h1 {
+    padding-top: 90px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 100px;
+    color: var(--text)
+}
+
+.projects-interests p {
+    color: var(--text);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.projects-interests a {
+    display: inline;
+}
+
+.card {
+    width: 300px;
+    height: 450px;
+    margin: 60px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.card a {
+    text-align: center;
+    color: var(--text);
+    font-size: 30px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding-bottom: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.astronomy-card {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5504d100e4b08eb858c4e8fc/1529015914950-BHRMYUXKGXF9LXH6AAD6/Starry+Night.jpeg?format=1500w");
+    background-size: cover;
+    background-position: 90%;
 }
 
 

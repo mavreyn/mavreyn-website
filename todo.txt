@@ -1,17 +1,18 @@
 Short term / Current::
 
 Finish codehal landing (transitions)
-
 gradient to CSS function (like form video)
-
-About Me
-Change profile picture
 
 My portfolio consists of my greatest work (including the web design itself) and is in early development. Feel free to explore and get in touch!
 - More info (dropdown)(in about menu)
 
-Fill in main astro content
+Nothing here yet at bottom
 
+Fill in main astro content
+- Photos section (sort by years)
+- Article by Maddie
+
+RESPONSIVENESS
 
 =======================================================================
 Midterm / aesthetic::
@@ -19,6 +20,7 @@ Midterm / aesthetic::
 Sort files
 Nothing here yet dark version
 Fireship animated navbar target scrollbar
+Make scrollbar custom
 Discord iframe (invite/servers)(for UCFC page)
 
 Socials (dropdown)
@@ -33,12 +35,24 @@ Socials (dropdown)
 
 Featured section?
 
+Carousel
+- Expand/lift on hover
+- Whole div make an <a>
+
+Contact page
+THREEJS effect below
+
+Desmos Page
+Cards and graphs (pop up)
+Triple wave animation at bottom
+
+Astro: my telescope setup
+
 =======================================================================
 Long term / wishlist::
 Color changer
-Responsive
+Resume / CV
 Reading progress bar (headings panel left)
-THREEJS landing / below
 mavreyn.dev
 
 
