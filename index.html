@@ -2,15 +2,21 @@
 <html lang="en-us">
 <head>
     
+    <title>Maverick Reynolds</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Maverick Reynolds</title>
     <link rel="stylesheet" href="index.css">
-    <script defer src="main.js"></script>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/controls/OrbitControls.js"></script>
+
+    <script defer src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
+
+    <script defer src="main.js"></script>
+    <script defer src="ico.js"></script>
 
 </head>
 <body>
@@ -47,17 +53,26 @@
             <span class="about-words"></span>
         </div>
         <div class="about-content">
-            <p>
-                A mathematics student by day, and a developer by night, I am always eager to improve my skillset and learn something new. With a strong passion for my work and a fiery drive for greatness, I'm excited for what the future holds.
-            </p>
+            <div class="my-desc">
+                <p>
+                    A mathematics student by day, and a developer by night, I am always eager to improve my skillset and learn something new.
+                </p>
+                <!--
+                <p>
+                    PLACEHOLDER HERE [[ With a strong passion for my work and a fiery drive for greatness, I'm excited for what the future holds. ]]
+                </p>
+                <p>
+                    Aside from the world of STEM, I also enjoy skateboarding and cooking in my freetime. In addition to attending UCF, I am also working as a front service clerk at Publix (which is a great opportunity to learn about ingredients and preparation given that I enjoy working with food)
+                </p> -->
+            </div>
         </div>
-
+        <div id="ico-container"></div>
     </section>
 
     <section class="projects-interests" id="projects">
         <h1>Projects and Interests</h1>
         <p>
-            My best work from each of my favorite passions is available here. Click on a card to go to a page about that (better stuff here bruh)
+            [[ My best work from each of my favorite passions is available here. Click on a card to go to a page about that (better stuff here bruh) ]]
         </p>
         <div class="card astronomy-card">
             <a href="/astronomy">ASTRONOMY</h3>
@@ -65,7 +80,6 @@
     </section>
 
     <section class="empty">
-
     </section>
 
 </body>

@@ -1,7 +1,7 @@
 Short term / Current::
 
+gradient to CSS function (like form video) (super ez)
 Finish codehal landing (transitions)
-gradient to CSS function (like form video)
 
 My portfolio consists of my greatest work (including the web design itself) and is in early development. Feel free to explore and get in touch!
 - More info (dropdown)(in about menu)
@@ -12,7 +12,7 @@ Fill in main astro content
 - Photos section (sort by years)
 - Article by Maddie
 
-RESPONSIVENESS
+RESPONSIVENESS (particularly on top)(watch video on flexbox resp)
 
 =======================================================================
 Midterm / aesthetic::
@@ -33,6 +33,8 @@ Socials (dropdown)
 - Snapchat
 - Steam
 
+Ambient floating stuff
+
 Featured section?
 
 Carousel
@@ -50,6 +52,7 @@ Astro: my telescope setup
 
 =======================================================================
 Long term / wishlist::
+Better ico 3js setup?
 Color changer
 Resume / CV
 Reading progress bar (headings panel left)
