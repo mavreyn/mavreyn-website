@@ -9,8 +9,10 @@ My portfolio consists of my greatest work (including the web design itself) and 
 Nothing here yet at bottom
 
 Fill in main astro content
+- Description
 - Photos section (sort by years)
 - Article by Maddie
+- Astro society link
 
 RESPONSIVENESS (particularly on top)(watch video on flexbox resp)
 
