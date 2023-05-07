@@ -1,6 +1,5 @@
 Short term / Current::
 
-gradient to CSS function (like form video) (super ez)
 Finish codehal landing (transitions)
 
 My portfolio consists of my greatest work (including the web design itself) and is in early development. Feel free to explore and get in touch!
@@ -9,12 +8,16 @@ My portfolio consists of my greatest work (including the web design itself) and 
 Nothing here yet at bottom
 
 Fill in main astro content
-- Description
+- Description (rest)
 - Photos section (sort by years)
 - Article by Maddie
 - Astro society link
 
 RESPONSIVENESS (particularly on top)(watch video on flexbox resp)
+
+Astronomy::
+- Big / small transition to sizes
+- Make padding outside of flexbox for first section
 
 =======================================================================
 Midterm / aesthetic::
