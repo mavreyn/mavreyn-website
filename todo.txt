@@ -1,31 +1,29 @@
 Short term / Current::
 
-Finish codehal landing (transitions)
+Finish codehal landing (transitions)(slide in!)
 
-My portfolio consists of my greatest work (including the web design itself) and is in early development. Feel free to explore and get in touch!
-- More info (dropdown)(in about menu)
+Astro (big/small animations)
+Astro make JWST back parallax effect
 
 Nothing here yet at bottom
 
-Fill in main astro content
-- Description (rest)
-- Photos section (sort by years)
-- Article by Maddie
-- Astro society link
+Icons for social media non-absolute
 
 RESPONSIVENESS (particularly on top)(watch video on flexbox resp)
-
-Astronomy::
-- Big / small transition to sizes
-- Make padding outside of flexbox for first section
+- Main
+- Astro
 
 =======================================================================
 Midterm / aesthetic::
 
 Sort files
 Nothing here yet dark version
-Fireship animated navbar target scrollbar
 Make scrollbar custom
+
+Desmos page (plan first)(remember how well it worked for astro!)
+Desmos page do
+
+Fireship animated navbar
 Discord iframe (invite/servers)(for UCFC page)
 
 Socials (dropdown)
@@ -53,7 +51,13 @@ Desmos Page
 Cards and graphs (pop up)
 Triple wave animation at bottom
 
-Astro: my telescope setup
+Drop down about section on main
+
+Astronomy make whole card link
+- Grow/highlight/bounce hover effect
+Write some more in the paragraphs
+
+Home make whole card link
 
 =======================================================================
 Long term / wishlist::
@@ -62,6 +66,7 @@ Color changer
 Resume / CV
 Reading progress bar (headings panel left)
 mavreyn.dev
+Astrophotography in astro page (at bottom or other)
 
 
 

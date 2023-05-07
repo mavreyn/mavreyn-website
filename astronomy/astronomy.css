@@ -39,32 +39,71 @@ body {
     z-index: -1;
 }
 
+/* ====================== MAIN CONTENT (BIG/SMALL) ====================== */
 
 main {
     z-index: 1;
     background-color: black;
 }
-
 h2 {
-    padding-top: 140px;
-    padding-bottom: 100px;
-    font-size: 90px;
+    padding: 120px 0;
+    font-size: 100px;
     width: 100%;
     text-align: center;
 }
-
-.intro {
-    display: flex;
-    align-items: center;
+h2 span {
+    color: mediumpurple
 }
-
-.intro img {
-    height: 400px;
-    border-radius: 30px;
-    margin: 70px;
+h2 span:nth-child(1) {
+    font-size: 200px;
 }
-
+h2 span:nth-child(2) {
+    font-size: 50px;
+}
 p {
     font-size: 30px;
-    margin: 80px;
+    padding: 10px 10%;
+}
+
+.block-quote {
+    margin: 100px 0;
+    display: flex;
+    background-image: url("https://www.thisiscolossal.com/wp-content/uploads/2022/10/pillars-detail-2.jpg");
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+}
+.block-quote h2 {
+    font-weight: 500;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    max-width: 80%;
+    padding: 80px 60px;  
+}
+
+/* ====================== CARDS AND LINKS ====================== */
+
+.astro-cards {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px 0;
+}
+
+.astro-cards div {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    background-color: #222;
+    padding: 10px;
+    justify-content: space-between;
+}
+a img {
+    width: 100%
+}
+.astro-cards div p {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
 }
