@@ -9,9 +9,13 @@ Nothing here yet at bottom
 
 Icons for social media non-absolute
 
+Another tutorial feature thing
+
 RESPONSIVENESS (particularly on top)(watch video on flexbox resp)
 - Main
 - Astro
+
+V1.0 DONE!
 
 =======================================================================
 Midterm / aesthetic::
@@ -65,7 +69,10 @@ Better ico 3js setup?
 Color changer
 Resume / CV
 Reading progress bar (headings panel left)
-mavreyn.dev
+
+mavreyn.dev/com
+https://www.youtube.com/watch?v=dbgEWWBvIxY&ab_channel=WebDevTutorials
+
 Astrophotography in astro page (at bottom or other)
 
 
