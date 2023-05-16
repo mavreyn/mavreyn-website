@@ -9,6 +9,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+:root {
+    font-size: 16px;
+}
+
 body {
     color: #eee;
     background-color: black; 
@@ -35,19 +39,24 @@ body {
     position: fixed;
     inset: 0;
     text-align: center;
-    font-size: clamp(60px, 12vw, 1000px);
+    font-size: clamp(0px, 12vw, 1000px);
     z-index: -1;
+    display: none;
 }
 
 /* ====================== MAIN CONTENT (BIG/SMALL) ====================== */
 
 main {
     z-index: 1;
-    background-color: black;
+    background-color: transparent;
 }
+main div {
+    background-color: black;
+    padding: 20px 10%;
+}
+
 h2 {
-    padding: 120px 0;
-    font-size: 100px;
+    font-size: 6rem;
     width: 100%;
     text-align: center;
 }
@@ -55,23 +64,23 @@ h2 span {
     color: mediumpurple
 }
 h2 span:nth-child(1) {
-    font-size: 200px;
+    font-size: 6rem;
 }
 h2 span:nth-child(2) {
-    font-size: 50px;
+    font-size: 6rem;
 }
 p {
-    font-size: 30px;
-    padding: 10px 10%;
+    font-size: 1.5rem;
+    margin: 30px 10%;
 }
 
 .block-quote {
     margin: 100px 0;
     display: flex;
-    background-image: url("https://www.thisiscolossal.com/wp-content/uploads/2022/10/pillars-detail-2.jpg");
     height: 700px;
     align-items: center;
     justify-content: center;
+    background-color: transparent;
 }
 .block-quote h2 {
     font-weight: 500;
@@ -79,22 +88,28 @@ p {
     border-width: 3px;
     border-style: solid;
     max-width: 80%;
+    font-size: 6rem;
     padding: 80px 60px;  
+}
+.quote-image {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://www.thisiscolossal.com/wp-content/uploads/2022/10/pillars-detail-2.jpg");
+    z-index: -2;
+    position: fixed;
 }
 
 /* ====================== CARDS AND LINKS ====================== */
-
 .astro-cards {
     display: flex;
     justify-content: space-evenly;
     padding: 100px 0;
+    height: 80vh;
 }
-
 .astro-cards div {
     display: flex;
     flex-direction: column;
     width: 400px;
-    height: 500px;
     background-color: #222;
     padding: 10px;
     justify-content: space-between;
@@ -106,4 +121,35 @@ a img {
     font-size: 24px;
     text-align: center;
     font-weight: 600;
+    margin: 5px 5%;
+}
+
+/* Responsive Design */
+
+@media (max-width: 1300px) {
+    :root {
+        font-size: 12px;
+    }
+
+    h2 {
+        font-size: 60px;
+    }
+    h2 span:nth-child(1) {
+        font-size: 120px;
+    }
+    h2 span:nth-child(2) {
+        font-size: 30px;
+    }
+}
+@media (max-width: 800px) {
+    h2 {
+        padding: 60px 0;
+        font-size: clamp(0px, 13vw, 120px);
+    }
+    h2 span:nth-child(1) {
+        font-size: clamp(0px, 16vw, 120px);
+    }
+    h2 span:nth-child(2) {
+        font-size: clamp(0px, 7.5vw, 120px);
+    }
 }

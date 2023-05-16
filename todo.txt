@@ -1,19 +1,19 @@
 Short term / Current::
 
-Finish codehal landing (transitions)(slide in!)
+Nothing here yet at bottom (dark)
+- Make Desmos page (at least link)(card on main)
 
-Astro (big/small animations)
-Astro make JWST back parallax effect
+RESPONSIVENESS
+* Landing
+- About
+- Carousel
 
-Nothing here yet at bottom
+Anbient up/down effects on home? / astronomy (rise on hover)
 
-Icons for social media non-absolute
-
-Another tutorial feature thing
-
-RESPONSIVENESS (particularly on top)(watch video on flexbox resp)
-- Main
-- Astro
+RESPONSIVENESS
+- Astronomy
+- JWST
+- Cards
 
 V1.0 DONE!
 
@@ -23,6 +23,11 @@ Midterm / aesthetic::
 Sort files
 Nothing here yet dark version
 Make scrollbar custom
+Landing tobar contract to hamburger
+Earth to astronomy page somewhere? Misc ESA Picture / JWST Wasp as something
+Astro make JWST back parallax effect
+Selections hover landing carousel
+Projects / interests box whiel still in main
 
 Desmos page (plan first)(remember how well it worked for astro!)
 Desmos page do
@@ -63,6 +68,9 @@ Write some more in the paragraphs
 
 Home make whole card link
 
+Astronomy Responsive
+Astronomy makes sections 100%
+
 =======================================================================
 Long term / wishlist::
 Better ico 3js setup?
@@ -70,17 +78,25 @@ Color changer
 Resume / CV
 Reading progress bar (headings panel left)
 
-mavreyn.dev/com
+mavreyn.com
 https://www.youtube.com/watch?v=dbgEWWBvIxY&ab_channel=WebDevTutorials
 
 Astrophotography in astro page (at bottom or other)
+
+========================================================================
+REFINEMENTS
+
+Astronomy page
+Home page
 
 
 
 https://themes.artbees.net/blog/key-sections-in-creative-website-template/
 https://www.youtube.com/watch?v=wLPIwZdo0gM&ab_channel=KevinPowell
 
+Astronomy Cool Grid!
 https://www.youtube.com/watch?v=705XCEruZFs&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6HtL1&index=3&ab_channel=Fireship
+
 https://www.youtube.com/watch?v=biOMz4puGt8&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6HtL1&index=3&ab_channel=Fireship
 
 Embeds
@@ -97,3 +113,6 @@ https://www.youtube.com/watch?v=W5oawMJaXbU&ab_channel=Hyperplexed
 
 Cool text gradient
 https://www.youtube.com/watch?v=yu0Cm4BqQv0&list=PLD9xos4mnoHSIDnJjGmhRrxRmHGS8nF91&index=9&ab_channel=Hyperplexed
+
+Floating Item Ambient
+https://www.youtube.com/watch?v=k3F1PyBX8pI&list=WL&index=27&ab_channel=Codehal

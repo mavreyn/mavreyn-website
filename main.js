@@ -21,3 +21,14 @@ if (doTypingAnimationAbout) {
         backDelay: 2500
     })
 }
+
+const sr = ScrollReveal({
+    distance: "65px",
+    duration: 2600,
+    delay: 450,
+    reset: true
+});
+
+sr.reveal(".landing-content", {delay: 200, origin: "top"})
+sr.reveal(".landing img", {delay: 600, origin: "right"})
+sr.reveal(".about-content", {delay: 50, origin: "left"})
