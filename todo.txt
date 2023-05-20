@@ -1,41 +1,46 @@
 Short term / Current::
 
-Nothing here yet at bottom (dark)
-- Make Desmos page (at least link)(card on main)
-
-RESPONSIVENESS
+FINAL LANDING PAGE REVISION
 * Landing
 - About
-- Carousel
+- Carousel (wrap in another div)(let flow down from about section)
+	Rise on hover (underline astro in card)
+	Bring in one after the other
 
-Anbient up/down effects on home? / astronomy (rise on hover)
+Make 3D thing size responsive
 
-RESPONSIVENESS
-- Astronomy
-- JWST
-- Cards
+FINAL ASTRO REVISION
+- Update section sizes
+- Text on pictures
+- Write more/ decrease font size
 
-V1.0 DONE!
+mavreyn.com
+https://www.youtube.com/watch?v=dbgEWWBvIxY&ab_channel=WebDevTutorials
+
+Upload a README.md
+V1.0 DONE!!!
 
 =======================================================================
 Midterm / aesthetic::
 
-Sort files
-Nothing here yet dark version
+Sort files in root
 Make scrollbar custom
-Landing tobar contract to hamburger
 Earth to astronomy page somewhere? Misc ESA Picture / JWST Wasp as something
-Astro make JWST back parallax effect
-Selections hover landing carousel
-Projects / interests box whiel still in main
+Make astronomy cards whole clickable (like home page)
 
 Desmos page (plan first)(remember how well it worked for astro!)
-Desmos page do
+- Make default layout (Maverick, Desmos Home, Top...)(topbar 3)(inspiration from medium / other blogs / pictures)
 
-Fireship animated navbar
-Discord iframe (invite/servers)(for UCFC page)
+Desmos page do (list of projects)
 
-Socials (dropdown)
+Computer Science
+- From Default Layout
+- UCFC blog thing (this is cool!)
+	Discord iframe (invite/servers)(for UCFC page)
+
+Landing topbar contract to hamburger
+
+Socials (dropdown)(hidden / secret)
 - Chess
 - Google guide profile
 - YouTube
@@ -46,40 +51,26 @@ Socials (dropdown)
 - Steam
 
 Ambient floating stuff
-
 Featured section?
-
-Carousel
-- Expand/lift on hover
-- Whole div make an <a>
-
 Contact page
-THREEJS effect below
+THREEJS effect below (cool)(all the way at bottom)
 
-Desmos Page
-Cards and graphs (pop up)
-Triple wave animation at bottom
+Desmos write about a project (separate article?)
 
-Drop down about section on main
-
-Astronomy make whole card link
-- Grow/highlight/bounce hover effect
-Write some more in the paragraphs
-
-Home make whole card link
+Desmos Triple wave animation at bottom
 
 Astronomy Responsive
 Astronomy makes sections 100%
 
 =======================================================================
 Long term / wishlist::
-Better ico 3js setup?
-Color changer
-Resume / CV
-Reading progress bar (headings panel left)
 
-mavreyn.com
-https://www.youtube.com/watch?v=dbgEWWBvIxY&ab_channel=WebDevTutorials
+Resume / CV
+Coolest math (KaTeX to render)
+Check phone responsiveness
+Better ico 3js setup?
+Reading progress bar (headings panel left)
+Contact Page
 
 Astrophotography in astro page (at bottom or other)
 

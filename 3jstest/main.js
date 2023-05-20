@@ -1,19 +1,21 @@
-var container = document.getElementById("ico-container")
+var container=document.getElementById("container")
 var renderer = new THREE.WebGLRenderer({antialias: true});
-var camera = new THREE.PerspectiveCamera(60,container.clientWidth/container.clientHeight,0.1,10000);
+var camera = new THREE.PerspectiveCamera(80,container.clientWidth/container.clientHeight,0.1,10000);
 var scene = new THREE.Scene();
-
-
 
 scene.add(camera);
 renderer.setSize(container.clientWidth, container.clientHeight);
-renderer.setClearColor(0x111111)
+renderer.setClearColor(0x000000)
 container.append(renderer.domElement);
+
 ///////////////////////////////////////////////
+
+// Camera
+camera.position.z = 2;
 
 // Material
 var material = new THREE.LineBasicMaterial({
-    color: 0x483e63,
+    color: 0x42a4ff,
     linewidth: 100
 });
 /*var material = new THREE.MeshPhongMaterial({
@@ -52,22 +54,16 @@ controls = new THREE.OrbitControls(camera, renderer.domElement);
 controls.autoRotate = true;
 controls.autoRotateSpeed = 4;
 controls.maxDistance = 2;
-controls.minDistance = 2;
 controls.enablePan = false;
-controls.enableZoom = false;
 controls.update();
-
-Ico.rotation.z = 2
 
 // Render
 function play() {
-    requestAnimationFrame(play);
-    Ico.rotation.y-= 0.002
+    requestAnimationFrame(play);	
+    Ico.rotation.y+= 0.001
     Ico.rotation.x+= 0.001
     renderer.render(scene, camera);
 }
-
-// Camera
 
 play();
 

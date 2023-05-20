@@ -232,34 +232,36 @@ body {
     font-weight: 600;
 }
 
-.projects-interests a {
-    display: inline;
+.card-container {
+    display: flex;
+    justify-content: space-evenly;
 }
-
-.card {
-    width: 300px;
-    height: 450px;
-    margin: 60px;
-    border-radius: 20px;
-    position: relative;
-}
-
-.card a {
-    text-align: center;
-    color: var(--text);
-    font-size: 30px;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    padding-bottom: 20px;
+.card-container a {
     text-decoration: none;
+    width: 300px;
+    height: 350px;
+    background-color: red;
+    text-align: center;
+    border-radius: 12px;
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-size: 32px;
+    color: white;
     font-weight: 600;
-}
-
-.astronomy-card {
-    background-image: url("https://images.squarespace-cdn.com/content/v1/5504d100e4b08eb858c4e8fc/1529015914950-BHRMYUXKGXF9LXH6AAD6/Starry+Night.jpeg?format=1500w");
     background-size: cover;
+}
+.astronomy {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5504d100e4b08eb858c4e8fc/1529015914950-BHRMYUXKGXF9LXH6AAD6/Starry+Night.jpeg?format=1500w");
     background-position: 90%;
+}
+.computer-science {
+    background-image: url("https://images.theconversation.com/files/440861/original/file-20220114-19-18wivp1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop");
+}
+.desmos {
+    background-image: url("https://help.desmos.com/hc/article_attachments/4413863846413/desmos_icon_square.png");
+    background-position: 20%;
 }
 
 /* Responsive Design with Media Queries */
