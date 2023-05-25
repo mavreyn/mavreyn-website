@@ -1,18 +1,8 @@
 Short term / Current::
 
-FINAL LANDING PAGE REVISION
-* Landing
-- About
-- Carousel (wrap in another div)(let flow down from about section)
-	Rise on hover (underline astro in card)
-	Bring in one after the other
+ASTRONOMY FULLY DONE!
 
-Make 3D thing size responsive
-
-FINAL ASTRO REVISION
-- Update section sizes
-- Text on pictures
-- Write more/ decrease font size
+Go from the layout sketch on your wall, and importantly, your heart!!
 
 mavreyn.com
 https://www.youtube.com/watch?v=dbgEWWBvIxY&ab_channel=WebDevTutorials
@@ -26,7 +16,7 @@ Midterm / aesthetic::
 Sort files in root
 Make scrollbar custom
 Earth to astronomy page somewhere? Misc ESA Picture / JWST Wasp as something
-Make astronomy cards whole clickable (like home page)
+- astrophoto picture to Moon (show off best work)
 
 Desmos page (plan first)(remember how well it worked for astro!)
 - Make default layout (Maverick, Desmos Home, Top...)(topbar 3)(inspiration from medium / other blogs / pictures)
@@ -71,6 +61,10 @@ Check phone responsiveness
 Better ico 3js setup?
 Reading progress bar (headings panel left)
 Contact Page
+
+- Carousel
+	Rise on hover (underline astro in card)
+	Bring in one after the other
 
 Astrophotography in astro page (at bottom or other)
 

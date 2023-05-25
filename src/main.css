@@ -194,10 +194,9 @@ body {
     float: right;
     position: absolute;
     z-index: -1;
-    width: 140%;
+    width: 130%;
     height: 130%;
-    left: 10%;
-    top: 00%;
+    top: 0;
 }
 .hint {
     color: #555;
@@ -209,24 +208,22 @@ body {
 /* ==================== PROJECTS / INTERETS ==================== */
 
 .projects-interests {
-    background-image: linear-gradient(
-        45deg,
-        #333,
-        #111
-    );
-    height: 100svh;
+    background-color: #222;
+    min-height: 100svh;
+    padding-top: 50px;
+    position: relative;
 }
 
 .projects-interests h1 {
-    padding-top: 90px;
+    padding-top: 30px;
     padding-bottom: 20px;
     text-align: center;
     font-size: 100px;
-    color: var(--text)
+    color: #eee
 }
 
 .projects-interests p {
-    color: var(--highlight);
+    color: mediumpurple;
     text-align: center;
     font-size: 28px;
     font-weight: 600;
@@ -235,22 +232,27 @@ body {
 .card-container {
     display: flex;
     justify-content: space-evenly;
+    margin: 80px 12%;
 }
 .card-container a {
     text-decoration: none;
     width: 300px;
-    height: 350px;
+    height: 300px;
     background-color: red;
     text-align: center;
-    border-radius: 12px;
-    margin: 60px;
+    border-radius: 6px;
+    border-color: mediumpurple;
+    border-width: 6px;
+    border-style: solid;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     font-size: 32px;
-    color: white;
+    color: #eee;
     font-weight: 600;
     background-size: cover;
+    margin: 10px;
+
 }
 .astronomy {
     background-image: url("https://images.squarespace-cdn.com/content/v1/5504d100e4b08eb858c4e8fc/1529015914950-BHRMYUXKGXF9LXH6AAD6/Starry+Night.jpeg?format=1500w");
@@ -288,6 +290,16 @@ body {
     .landing-content h1 {
         font-size: 8vw;
     }
+
+    .about-content {
+        margin: 0px 4% 20px;
+        width: unset;
+        font-size: 28px;
+    }
+    .card-container {
+        flex-direction: column;
+       align-items: center;
+    }
 }
 @media (max-width: 1000px) {
     .landing {
@@ -310,6 +322,10 @@ body {
         position: unset;
         margin: 30px 0;
     }
+
+    .hint {
+        display: none;
+    }
 }
 @media (max-width: 720px) {
     .landing-content h1 {
@@ -323,6 +339,13 @@ body {
     }
     .landing img{
         width: clamp(0px, 75vw, 400px);
+    }
+
+    .about {
+        height: unset;
+    }
+    .about-content p {
+        font-size: 18px;
     }
 }
 
