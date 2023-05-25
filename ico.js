@@ -1,5 +1,5 @@
 var container = document.getElementById("ico-container")
-var renderer = new THREE.WebGLRenderer({antialias: true});
+var renderer = new THREE.WebGLRenderer({antialias: true, alpha: true});
 var camera = new THREE.PerspectiveCamera(60,container.clientWidth/container.clientHeight,0.1,10000);
 var scene = new THREE.Scene();
 
@@ -7,7 +7,6 @@ var scene = new THREE.Scene();
 
 scene.add(camera);
 renderer.setSize(container.clientWidth, container.clientHeight);
-renderer.setClearColor(0x111111)
 container.append(renderer.domElement);
 ///////////////////////////////////////////////
 

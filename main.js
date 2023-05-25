@@ -29,6 +29,6 @@ const sr = ScrollReveal({
     reset: true
 });
 
-sr.reveal(".landing-content", {delay: 200, origin: "top"})
-sr.reveal(".landing img", {delay: 600, origin: "right"})
-sr.reveal(".about-content", {delay: 50, origin: "left"})
+sr.reveal(".landing-content", {delay: 200, origin: "top"});
+sr.reveal(".landing img", {delay: 600, origin: "right"});
+sr.reveal(".about-content", {delay: 50, origin: "left"});
