@@ -31,4 +31,13 @@ const sr = ScrollReveal({
 
 sr.reveal(".landing-content", {delay: 200, origin: "top"});
 sr.reveal(".landing img", {delay: 600, origin: "right"});
+
 sr.reveal(".about-content", {delay: 50, origin: "left"});
+
+// Toggle the menu on mobile / small screens
+const navlist = $('.navbar');
+const menuIcon = $('#menu-icon');
+menuIcon.click(() => { //IIFE event listener
+    menuIcon.toggleClass('bx-x');
+    navlist.toggleClass('open');
+})

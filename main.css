@@ -44,6 +44,7 @@ body {
     text-decoration: none;
     font-weight: 600;
     color: var(--text);
+    transition: .3s;
 }
 
 .navbar a {
@@ -58,7 +59,6 @@ body {
 .navbar a:hover {
     color: #aaa;
 }
-
 .navbar a::before {
     content: "";
     position: absolute;
@@ -71,9 +71,49 @@ body {
     transition: .5s;
 
 }
-
 .navbar a:hover::before {
     width: 100%;
+}
+
+#menu-icon {
+    display: none;
+    color: #eee;
+    font-size: 36px;
+    transition: .3s;
+}
+#menu-icon:hover {
+    color: #aaa;
+    cursor: pointer;
+}
+.logo:hover {
+    color: #aaa;
+}
+
+@media (max-width: 1000px) {
+    #menu-icon {
+        display: block;
+    }
+    .navbar {
+        position: fixed;
+        top: 8%;
+        right: -251px;
+        width: 250px;
+        background: hsl(0 0% 100% / 0.1);
+        backdrop-filter: blur(10px);
+        display: flex;
+        flex-direction: column;
+        padding: 20px 40px;
+        transition: .5s ease-in-out;
+        border-radius: 12px;
+    }
+    .navbar a {
+        margin: 20px 0;
+        font-size: 30px;
+    }
+}
+
+.navbar.open {
+    right: 20px;
 }
 
 /* ====================== LANDING PAGE ====================== */

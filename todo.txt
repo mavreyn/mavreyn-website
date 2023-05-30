@@ -1,8 +1,13 @@
 Short term / Current::
 
 ASTRONOMY FULLY DONE!
+HAMBURGER IN PLACE!
 
 Go from the layout sketch on your wall, and importantly, your heart!!
+- Bottom cool 3js thing!
+- Make third section responsive (entire page for mobile yay!!)
+- Match card format to astronomy
+- Hover effect (same for both this and astro)(rise / enlarger / change color...)
 
 mavreyn.com
 https://www.youtube.com/watch?v=dbgEWWBvIxY&ab_channel=WebDevTutorials
@@ -13,10 +18,17 @@ V1.0 DONE!!!
 =======================================================================
 Midterm / aesthetic::
 
+Ambient floating (image) w/ border
+https://www.youtube.com/watch?v=k3F1PyBX8pI&ab_channel=Codehal
+
 Sort files in root
 Make scrollbar custom
 Earth to astronomy page somewhere? Misc ESA Picture / JWST Wasp as something
 - astrophoto picture to Moon (show off best work)
+
+-----------------------------------------------------------------------
+Dynamic color change (take inspiration from the simplicity of the example page)
+https://www.youtube.com/watch?v=wLPIwZdo0gM&ab_channel=KevinPowell
 
 Desmos page (plan first)(remember how well it worked for astro!)
 - Make default layout (Maverick, Desmos Home, Top...)(topbar 3)(inspiration from medium / other blogs / pictures)
@@ -52,6 +64,10 @@ Desmos Triple wave animation at bottom
 Astronomy Responsive
 Astronomy makes sections 100%
 
+Animated hamburger
+Add padding at landing for flexbox to prevent min height
+Fix comp math stu at UCF at 1920 / 2
+
 =======================================================================
 Long term / wishlist::
 
@@ -77,7 +93,6 @@ Home page
 
 
 https://themes.artbees.net/blog/key-sections-in-creative-website-template/
-https://www.youtube.com/watch?v=wLPIwZdo0gM&ab_channel=KevinPowell
 
 Astronomy Cool Grid!
 https://www.youtube.com/watch?v=705XCEruZFs&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6HtL1&index=3&ab_channel=Fireship
@@ -87,9 +102,6 @@ https://www.youtube.com/watch?v=biOMz4puGt8&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6H
 Embeds
 https://premio.io/blog/13-cool-elements-you-can-embed-in-your-my-sticky-elements-widget/
 
-Cool image effects
-https://www.youtube.com/watch?v=k3F1PyBX8pI&ab_channel=Codehal
-
 Threejs efects super cool
 https://freefrontend.com/three-js-examples/
 
@@ -98,6 +110,3 @@ https://www.youtube.com/watch?v=W5oawMJaXbU&ab_channel=Hyperplexed
 
 Cool text gradient
 https://www.youtube.com/watch?v=yu0Cm4BqQv0&list=PLD9xos4mnoHSIDnJjGmhRrxRmHGS8nF91&index=9&ab_channel=Hyperplexed
-
-Floating Item Ambient
-https://www.youtube.com/watch?v=k3F1PyBX8pI&list=WL&index=27&ab_channel=Codehal
