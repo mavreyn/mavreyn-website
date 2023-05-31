@@ -237,6 +237,7 @@ body {
     width: 130%;
     height: 130%;
     top: 0;
+    cursor: pointer;
 }
 .hint {
     color: #555;
@@ -251,15 +252,16 @@ body {
     background-color: #222;
     min-height: 100svh;
     padding-top: 50px;
-    position: relative;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .projects-interests h1 {
-    padding-top: 30px;
-    padding-bottom: 20px;
     text-align: center;
     font-size: 100px;
-    color: #eee
+    color: #eee;
 }
 
 .projects-interests p {
@@ -272,7 +274,7 @@ body {
 .card-container {
     display: flex;
     justify-content: space-evenly;
-    margin: 80px 12%;
+    margin: 0 12%;
 }
 .card-container a {
     text-decoration: none;
@@ -305,6 +307,9 @@ body {
     background-image: url("https://help.desmos.com/hc/article_attachments/4413863846413/desmos_icon_square.png");
     background-position: 20%;
 }
+
+/* Cool THREE.js effect at bottom of page
+https://codepen.io/soju22/pen/PLeLwo */
 
 /* Responsive Design with Media Queries */
 
@@ -388,6 +393,5 @@ body {
         font-size: 18px;
     }
 }
-
 
 

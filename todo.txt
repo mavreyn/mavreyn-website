@@ -26,6 +26,12 @@ Make scrollbar custom
 Earth to astronomy page somewhere? Misc ESA Picture / JWST Wasp as something
 - astrophoto picture to Moon (show off best work)
 
+Max width on not here yet
+About:
+- Revise writing
+- Reduce margins on small sizes for typing
+- Center veritcally ico (fix div location)
+
 -----------------------------------------------------------------------
 Dynamic color change (take inspiration from the simplicity of the example page)
 https://www.youtube.com/watch?v=wLPIwZdo0gM&ab_channel=KevinPowell
@@ -40,8 +46,6 @@ Computer Science
 - UCFC blog thing (this is cool!)
 	Discord iframe (invite/servers)(for UCFC page)
 
-Landing topbar contract to hamburger
-
 Socials (dropdown)(hidden / secret)
 - Chess
 - Google guide profile
@@ -54,19 +58,17 @@ Socials (dropdown)(hidden / secret)
 
 Ambient floating stuff
 Featured section?
-Contact page
-THREEJS effect below (cool)(all the way at bottom)
 
 Desmos write about a project (separate article?)
 
 Desmos Triple wave animation at bottom
 
-Astronomy Responsive
-Astronomy makes sections 100%
-
 Animated hamburger
-Add padding at landing for flexbox to prevent min height
+Add padding at landing for flexbox to prevent min height (or no absolute)
 Fix comp math stu at UCF at 1920 / 2
+Habruger ::after for links goes the whole way on phone
+Bring socials in after delay
+Dont' shrink Im Maverick Comp stu all the way down
 
 =======================================================================
 Long term / wishlist::
@@ -101,9 +103,6 @@ https://www.youtube.com/watch?v=biOMz4puGt8&list=PL0vfts4VzfNjfHKRKkMjm_xUXglH6H
 
 Embeds
 https://premio.io/blog/13-cool-elements-you-can-embed-in-your-my-sticky-elements-widget/
-
-Threejs efects super cool
-https://freefrontend.com/three-js-examples/
 
 Hacked Letters thing
 https://www.youtube.com/watch?v=W5oawMJaXbU&ab_channel=Hyperplexed

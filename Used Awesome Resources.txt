@@ -21,3 +21,9 @@ https://www.youtube.com/watch?v=IXucQAEkIMo&ab_channel=TahmidAhmed
 
 Underline Effect
 https://www.youtube.com/watch?v=aswRKAjjWuE&ab_channel=CodingArtist	
+
+Blur div background
+https://www.youtube.com/watch?v=HbBMp6yUXO0&ab_channel=KevinPowell
+
+Cool three.js simplex noise effect
+https://codepen.io/soju22/pen/PLeLwo
