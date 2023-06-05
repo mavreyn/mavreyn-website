@@ -251,7 +251,6 @@ body {
 .projects-interests {
     background-color: #222;
     min-height: 100svh;
-    padding-top: 50px;
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
@@ -259,6 +258,7 @@ body {
 }
 
 .projects-interests h1 {
+    padding-top: 50px;
     text-align: center;
     font-size: 100px;
     color: #eee;
@@ -274,38 +274,42 @@ body {
 .card-container {
     display: flex;
     justify-content: space-evenly;
-    margin: 0 12%;
+    padding: 60px 10%;
 }
 .card-container a {
-    text-decoration: none;
-    width: 300px;
-    height: 300px;
-    background-color: red;
-    text-align: center;
-    border-radius: 6px;
-    border-color: mediumpurple;
-    border-width: 6px;
-    border-style: solid;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    font-size: 32px;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    transition: 0.3s;
+}
+a img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border: mediumpurple;
+    border-style: solid;
+}
+.card-container a p {
+    text-align: center;
     color: #eee;
-    font-weight: 600;
-    background-size: cover;
-    margin: 10px;
-
+    width: 100%;
+    font-size: 22px;
+    font-weight: 500;
+    background-color: #111;
+    border-radius: 24px;
+    padding: 10px 0;
+    margin: 20px 0;;
 }
-.astronomy {
-    background-image: url("https://images.squarespace-cdn.com/content/v1/5504d100e4b08eb858c4e8fc/1529015914950-BHRMYUXKGXF9LXH6AAD6/Starry+Night.jpeg?format=1500w");
-    background-position: 90%;
+.card-container a:hover p {
+    background-color: #eee;
+    color: mediumpurple;
+    transition: .5s;
 }
-.computer-science {
-    background-image: url("https://images.theconversation.com/files/440861/original/file-20220114-19-18wivp1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop");
-}
-.desmos {
-    background-image: url("https://help.desmos.com/hc/article_attachments/4413863846413/desmos_icon_square.png");
-    background-position: 20%;
+.card-container a:hover {
+    transform: translate(0, -10px);
 }
 
 /* Cool THREE.js effect at bottom of page
@@ -343,7 +347,7 @@ https://codepen.io/soju22/pen/PLeLwo */
     }
     .card-container {
         flex-direction: column;
-       align-items: center;
+        align-items: center;
     }
 }
 @media (max-width: 1000px) {
@@ -392,6 +396,11 @@ https://codepen.io/soju22/pen/PLeLwo */
     .about-content p {
         font-size: 18px;
     }
+
+    .landing-content {
+        margin-top: 80px;
+    }
+    .landing {
+        padding: 0 5%;
+    }
 }
-
-
