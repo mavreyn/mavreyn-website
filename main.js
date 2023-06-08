@@ -37,7 +37,8 @@ sr.reveal(".about-content", {delay: 50, origin: "left"});
 // Toggle the menu on mobile / small screens
 const navlist = $('.navbar');
 const menuIcon = $('#menu-icon');
-menuIcon.click(() => { //IIFE event listener
+//IIFE event listener
+menuIcon.click(() => {
     menuIcon.toggleClass('bx-x');
     navlist.toggleClass('open');
 })

@@ -212,10 +212,10 @@ body {
     overflow: hidden;
 }
 .about-typing {
-    font-size: clamp(10px, 6vw, 120px);
+    font-size: clamp(36px, 6vw, 120px);
     font-weight: 700;
     color: #888;
-    padding: 60px 13%;
+    padding: 50px 13%;
 }
 .about-typing .about-prefix {
     margin-right: 2px;
@@ -269,6 +269,7 @@ body {
     text-align: center;
     font-size: 28px;
     font-weight: 600;
+    margin: 0 5%;
 }
 
 .card-container {
@@ -402,5 +403,12 @@ https://codepen.io/soju22/pen/PLeLwo */
     }
     .landing {
         padding: 0 5%;
+    }
+    .projects-interests h1 {
+        font-size: 50px;
+        margin: 0 5%;
+    }
+    .projects-interests p {
+        font-size: 20px;
     }
 }

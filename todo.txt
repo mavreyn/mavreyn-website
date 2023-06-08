@@ -3,11 +3,10 @@ Short term / Current::
 ASTRONOMY FULLY DONE!
 HAMBURGER IN PLACE!
 BOTTOM 3JS WAVE!
+CARD FORMAT MATCH!
+HOVER EFFECT LOOKS SUPER COOL FOR CARDS!
+THIRD SECTION RESPONSIVE!
 
-Go from the layout sketch on your wall, and importantly, your heart!!
-- Make third section responsive (entire page for mobile yay!!)
-- Match card format to astronomy
-- Hover effect (same for both this and astro)(rise / enlarger / change color...)
 
 mavreyn.com
 https://www.youtube.com/watch?v=dbgEWWBvIxY&ab_channel=WebDevTutorials
@@ -33,6 +32,10 @@ About:
 - Reduce margins on small sizes for typing
 - Center veritcally ico (fix div location)
 Topbar inline on small display
+
+Go ahead and actually write an article
+- Maybe start with a simple one, just to get something going! (keep it simple)
+- And put it somewhere
 
 -----------------------------------------------------------------------
 Dynamic color change (take inspiration from the simplicity of the example page)
@@ -72,6 +75,8 @@ Habruger ::after for links goes the whole way on phone
 Bring socials in after delay
 Dont' shrink Im Maverick Comp stu all the way down
 
+Clean card display on home page (make responsive same way astro is)
+
 =======================================================================
 Long term / wishlist::
 
@@ -89,6 +94,7 @@ Contact Page
 Astrophotography in astro page (at bottom or other)
 
 Blog posts on front / visible
+(Favorites page sort of)
 - Blog collection page (congregation)
 
 ========================================================================
