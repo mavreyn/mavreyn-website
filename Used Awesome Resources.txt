@@ -27,3 +27,6 @@ https://www.youtube.com/watch?v=HbBMp6yUXO0&ab_channel=KevinPowell
 
 Cool three.js simplex noise effect
 https://codepen.io/soju22/pen/PLeLwo
+
+Explosive hover effect
+https://www.youtube.com/watch?v=owpaafxvkjU&ab_channel=Hyperplexed
