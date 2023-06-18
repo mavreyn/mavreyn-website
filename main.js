@@ -27,11 +27,14 @@ const sr = ScrollReveal({
     distance: "65px",
     duration: 2600,
     delay: 450,
-    reset: true
+    reset: false
 });
-sr.reveal(".landing-content", {delay: 200, origin: "top"});
-sr.reveal(".landing img", {delay: 600, origin: "right"});
-sr.reveal(".about-content", {delay: 50, origin: "left"});
+sr.reveal(".header", {delay: 0, origin: "top"});
+sr.reveal(".landing-content", {delay: 750, origin: "left"});
+sr.reveal(".landing img", {delay: 1000, origin: "right"});
+sr.reveal(".socials", {delay: 1500, origin: "bottom"});
+
+sr.reveal(".about-content", {delay: 200, origin: "left"});
 
 
 // Toggle the menu on mobile / small screens

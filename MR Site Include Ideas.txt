@@ -4,12 +4,11 @@ Home
 
 Desc/about
 * Cool 3JS thing here
-- Expandable div
 
 Projects / Interests
 - Mango w/ example notes
 - How I made this website
-- Streamlit
+* Streamlit
 - UCFC (include interview)(4/21)
 - Gene data shift adj convolution
 - Python misc

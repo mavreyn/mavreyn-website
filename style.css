@@ -25,6 +25,17 @@ body {
     background-color: var(--main-bg);
 }
 
+/* scroll bar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #444;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--highlight);
+}
+
 /* ====================== HEADER ====================== */
 
 .header {
@@ -138,6 +149,7 @@ body {
 .landing img {
     width: 600px;
     border-radius: 50%;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
 }
 
 .landing-content {
@@ -261,6 +273,7 @@ body {
 #background {
     position: absolute;
     bottom: 0;
+    z-index: 0;
 }
 
 .card-container {
@@ -269,6 +282,7 @@ body {
     align-items: center;
     flex-direction: column;
     padding: 60px 10%;
+    z-index: 1;
 }
 .card-container a {
     text-decoration: none;

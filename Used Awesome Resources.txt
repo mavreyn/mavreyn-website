@@ -30,3 +30,6 @@ https://codepen.io/soju22/pen/PLeLwo
 
 Explosive hover effect
 https://www.youtube.com/watch?v=owpaafxvkjU&ab_channel=Hyperplexed
+
+Custom Scrollbars
+https://www.youtube.com/watch?v=lvKK2fs6h4I&t=462s&ab_channel=KevinPowell
